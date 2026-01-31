@@ -1,0 +1,5 @@
+pyinstaller --onefile --noconsole --uac-admin v5.0.py
+
+
+方案 B：带图标并自定义名称（专业版推荐） (请确保目录下有 logo.ico 文件，如果没有图标，删掉 --icon="logo.ico" 这一段即可)
+pyinstaller --onefile --noconsole --uac-admin --icon="logo.ico" --name="C盘深度清理专家" v5.0.py
