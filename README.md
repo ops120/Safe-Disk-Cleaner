@@ -38,7 +38,7 @@ cd 你的仓库名
 
 # 3. 运行脚本 (请确保以管理员权限打开终端)
 python cleaner.py
-
+```
 ### 方式二：打包为 EXE (推荐)
 
 如果你想生成一个可以在任何电脑上运行的 .exe 文件：
@@ -51,3 +51,4 @@ pip install pyinstaller
 pyinstaller --onefile --noconsole --uac-admin --name="C盘深度清理专家" cleaner.py
 
 # 3. 在 dist 文件夹中找到生成的 exe 文件
+```
