@@ -31,3 +31,5 @@ outputs/
 __pycache__/
 *.pyc
 node_modules/
+*.spec
+*.exe
