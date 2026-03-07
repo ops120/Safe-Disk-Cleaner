@@ -1,0 +1,33 @@
+# 1. 安全与敏感信息 (禁止上传)
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+config.local.*
+*_secret.*
+*coinfig*
+.clinerules
+.gitignore
+.claude
+.claudes
+
+# 2. 日志文件
+logs/
+*.log
+
+# 3. 文档与测试模板
+docs/
+templates/
+templates/*
+
+# 4. 生成的媒体产物
+outputs/
+*.mp4
+*.png
+*.jpg
+
+# 5. 其他常规开发忽略 (如缓存、依赖库)
+__pycache__/
+*.pyc
+node_modules/
