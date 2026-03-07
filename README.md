@@ -1,6 +1,6 @@
 # 🚀 磁盘清理专家 (Disk Cleaner Pro)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-win.svg)](https://microsoft.com/windows)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
